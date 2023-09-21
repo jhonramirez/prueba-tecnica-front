@@ -1,0 +1,22 @@
+.startPage {
+  margin: 3rem;
+}
+.startPage__buttonContainer {
+  display: flex;
+  width: auto;
+  justify-content: center;
+  padding: 2rem;
+}
+.startPage__messageError {
+  font-weight: bold;
+  margin-top: 1rem;
+  color: red;
+}
+.startPage button {
+  width: 100%;
+  border-radius: 20px;
+}
+.startPage button:disabled {
+  background: rgb(209, 196, 196);
+  border-color: rgb(182, 179, 179);
+}/*# sourceMappingURL=StartPage.css.map */

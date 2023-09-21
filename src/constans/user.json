@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Juanito",
+        "lastName": "Alimaña",
+        "country": "Colombia",
+        "typeDocument": "CC",
+        "numberDocument": 12345678
+    },
+    {
+        "name": "Pedro",
+        "lastName": "Navaja",
+        "country": "Cuba",
+        "typeDocument": "PA",
+        "numberDocument": 7891010101
+    }
+]

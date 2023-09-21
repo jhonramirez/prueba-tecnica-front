@@ -1,0 +1,22 @@
+.startPage {
+  margin: 3rem;
+  &__buttonContainer {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    padding: 2rem;
+  }
+  &__messageError {
+    font-weight: bold;
+    margin-top: 1rem;
+    color: red;
+  }
+  button {
+    width: 100%;
+    border-radius: 20px;
+  }
+  button:disabled {
+    background: rgb(209, 196, 196);
+    border-color: rgb(182, 179, 179);
+  }
+}
